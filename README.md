@@ -1,5 +1,12 @@
 # 🔥 PyroWatch — Sistema de Monitoramento de Queimadas
 
+## 🎬 Vídeo Demonstrativo
+
+[![SpaceRAG Demo](https://img.youtube.com/vi/TSZBbeuPL5w/0.jpg)](https://youtu.be/TSZBbeuPL5w)
+
+> Clique na imagem para assistir à demonstração completa no YouTube.
+
+
 Dashboard interativo desenvolvido para a **Global Solution 2026/1 — Front-end em Sistemas de IA (FIAP)**.
 
 ## Problema
