@@ -2,6 +2,12 @@
 
 Dashboard interativo desenvolvido para a **Global Solution 2026/1 — Front-end em Sistemas de IA (FIAP)**.
 
+## 🎬 Vídeo Demonstrativo
+
+[![SpaceRAG Demo](https://img.youtube.com/vi/TSZBbeuPL5w/0.jpg)](https://youtu.be/TSZBbeuPL5w)
+
+> Clique na imagem para assistir à demonstração completa no YouTube.
+
 ## Problema
 
 Queimadas no Brasil causam impactos ambientais, econômicos e sociais devastadores. Tomadores de decisão precisam de informações em tempo real sobre focos ativos, nível de risco e área afetada para acionar protocolos de resposta. O PyroWatch transforma dados satelitais brutos em visualizações acionáveis.
